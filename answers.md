@@ -26,7 +26,7 @@ The optimal substructure is C(N,K) = min{C(N, k-1), 1 + C(N- r, k). r is the coi
 - **3a.**
 
 
-
+in main.py
 
 
 
@@ -34,10 +34,10 @@ The optimal substructure is C(N,K) = min{C(N, k-1), 1 + C(N- r, k). r is the coi
 
 
 
-
+in main.py
 
 
 - **3c.**
 
 
-
+in main.py
